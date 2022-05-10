@@ -1,13 +1,13 @@
-import logo from "./images/logo.png"
+import logo from "./images/logo1.png"
 
 function Nav () {
     return(
         <nav>
           <a href=""><img class= "logo" src={logo} ></img></a>
           <ul>
-              <li><a href="">Technology </a></li>
-              <li><a href="">Sport</a></li>
-              <li><a href="">Fashion</a></li>
+              <li><a href="">Technology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
+              <li><a href="">Sport &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+              <li><a href="">Fashion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
                             
 
           </ul>

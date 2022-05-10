@@ -7,6 +7,7 @@ import Pic4 from './article4';
 import Pic5 from './article5';
 import Pic6 from './article6';
 import Nav from './nav';
+import Footer from './footer';
 
 
 
@@ -24,6 +25,8 @@ function App() {
       <Pic6 url ={"./images/photo6.jpg"}/>
 
       </div>
+
+     <Footer />
 
       </body>
 
